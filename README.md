@@ -1,6 +1,6 @@
 Project for Getting and Cleaning Data
 
-Author: Benjamin Chan (https://github.com/benjamin-chan/GettingAndCleaningData)
+Author: Vivek Singh (https://github.com/viki00762/GettingAndCleaningDataV)
 
 Parameters for the project
 
